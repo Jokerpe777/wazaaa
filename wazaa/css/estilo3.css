@@ -1,7 +1,0 @@
-/* Estilo para las etiquetas para varias etiquetas */
-h1, h3, h5 {
-    size: 70ch;
-    font-size: large;
-    color: brown;
-    font-family: 'Times New Roman', Times, serif;
-}
