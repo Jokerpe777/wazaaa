@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    background: lightblue;
+    padding: 5px;
+    align-items: center;
+    max-width: 60px;
+    justify-content: center;
+}
+p.especial {
+    color: red;
+    font-weight: bold;
+}
